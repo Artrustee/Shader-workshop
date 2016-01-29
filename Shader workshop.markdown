@@ -3,14 +3,15 @@
 
 ##Main Content
 
-###fragment shader
+###start with the fragment shader
 
+* What's shader? what's his Chinese name?
 * How many different shaders types?
 * Hello shader
 * Y Shaders?
 * Uniforms
 
-###aaa
+###play with it
 
 * Shapes
 * Colors
