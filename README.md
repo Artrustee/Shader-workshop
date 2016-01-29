@@ -3,7 +3,7 @@ brief look on fragment shader
 
 ##main contents
 
-###fragment shader
+###start with fragment shader
 
 * How many different shaders types?
 * Hello shader
