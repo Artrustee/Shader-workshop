@@ -5,6 +5,8 @@
 //uniform float time;
 uniform vec2 mousePos;
 
+
+
 void main( void )
 {
     float w = 1024;
@@ -12,9 +14,10 @@ void main( void )
     
     float red = mousePos.x/w;
     float green = mousePos.y/h;
-//    float blue = abs(sin(mousePos.x * mousePos.y));
-    float blue = 1.0;
+    float blue = abs(sin(mousePos.x * mousePos.y));
+//    float blue = 1.0;
     vec3 color;
+    
     color = vec3(red,green,blue);
     
     

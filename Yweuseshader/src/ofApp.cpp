@@ -1,22 +1,18 @@
-// this copy will answer the question Y we need to lean shaders.
 #include "ofApp.h"
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    helloShader.load("shader");
+
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-//    helloShader.load("shader");
-    ofSetWindowTitle(ofToString(ofGetFrameRate()) + " fps");
+
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    helloShader.begin();
-    ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
-    helloShader.end();
+
 }
 
 //--------------------------------------------------------------

@@ -2,17 +2,20 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-
+    shader.load("shaping");
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-
+    shader.load("shaping");
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-
+    shader.begin();
+    shader.setUniform2f("u_resolution", ofGetWidth(), ofGetHeight());
+    ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
+    shader.end();
 }
 
 //--------------------------------------------------------------

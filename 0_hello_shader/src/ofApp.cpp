@@ -7,13 +7,14 @@ void ofApp::setup(){
 
 //--------------------------------------------------------------
 void ofApp::update(){
-//    helloShader.load("shader");
+    helloShader.load("shader");
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
     helloShader.begin();
-    ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
+//    ofDrawRectangle(0, 0, ofGetWidth(), ofGetHeight());
+    ofDrawCircle(mouseX , mouseY, 40);
     helloShader.end();
 }
 

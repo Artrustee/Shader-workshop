@@ -16,3 +16,12 @@
 
 * [GLSL Tutorial von Lighthouse3D](http://zach.in.tu-clausthal.de/teaching/cg_literatur/glsl_tutorial/)
 * [lighthouse](http://www.lighthouse3d.com/tutorials/)
+* []shaderific](http://www.shaderific.com/glsl/)
+
+##Examples
+
+* [kynd](http://www.kynd.info/log/)
+* [Shi weili](http://shi-weili.com/shader-odyssey/)
+* [Robert Hodgin](http://roberthodgin.com/)
+* [Flong](http://flong.com/)
+
