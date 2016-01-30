@@ -15,8 +15,12 @@
 ](https://www.youtube.com/watch?v=0ifChJ0nJfM)
 
 * [GLSL Tutorial von Lighthouse3D](http://zach.in.tu-clausthal.de/teaching/cg_literatur/glsl_tutorial/)
+
+* [glsl-workshop by Jason](https://github.com/jasonlevine/glsl-workshop)
+
 * [lighthouse](http://www.lighthouse3d.com/tutorials/)
-* []shaderific](http://www.shaderific.com/glsl/)
+
+* [shaderific](http://www.shaderific.com/glsl/)
 
 ##Examples
 
